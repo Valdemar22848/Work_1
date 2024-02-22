@@ -13,6 +13,7 @@ int main()
     int x;
     scanf("%d", &x);
     int y = (5 * x + 20) * 2;
+
      printf("You entered: %d", y);
 
     return 0;
